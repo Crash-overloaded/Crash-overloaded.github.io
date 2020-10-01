@@ -48,3 +48,4 @@ If you'd like to **use the template without the attribution**, you can check out
 - [jQuery RSS](https://github.com/sdepold/jquery-rss)
 - Profile image: [Ben Smith](https://www.flickr.com/photos/dotbenjamin/2577394151)
 - iPad and iPhone mocks: [Regy Perlera](https://dribbble.com/perlerar)
+- for more fuctionality contact me
